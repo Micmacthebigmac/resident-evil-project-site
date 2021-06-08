@@ -3,7 +3,7 @@
 ## Description
 
 Ce Projet a été réaliser en cours de l' ACS hors formation.  
-Ce Projet est plus baccassable alors a prendre avec des ".
+Ce Projet est plus baccassable alors a prendre avec des pincette.
 
 ## Project Time
 
